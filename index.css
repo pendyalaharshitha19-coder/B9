@@ -1,0 +1,12 @@
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-align: justify;
+    color: red;
+    background-color:rgb(88, 168, 168);
+    text-align: center;
+    background-image: url(C:\mernstack19\aitslogo.png);
+    color:#333;
+}
